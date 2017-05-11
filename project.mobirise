@@ -24,7 +24,9 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 12,
     "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/naed-128x33.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
